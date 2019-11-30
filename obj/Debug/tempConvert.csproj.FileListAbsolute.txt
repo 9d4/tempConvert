@@ -1,0 +1,8 @@
+C:\Users\trapercode\source\repos\tempConvert\bin\Debug\tempConvert.exe
+C:\Users\trapercode\source\repos\tempConvert\bin\Debug\tempConvert.pdb
+C:\Users\trapercode\source\repos\tempConvert\obj\Debug\tempConvert.csprojAssemblyReference.cache
+C:\Users\trapercode\source\repos\tempConvert\obj\Debug\tempConvert.Form1.resources
+C:\Users\trapercode\source\repos\tempConvert\obj\Debug\tempConvert.Properties.Resources.resources
+C:\Users\trapercode\source\repos\tempConvert\obj\Debug\tempConvert.csproj.GenerateResource.cache
+C:\Users\trapercode\source\repos\tempConvert\obj\Debug\tempConvert.exe
+C:\Users\trapercode\source\repos\tempConvert\obj\Debug\tempConvert.pdb
