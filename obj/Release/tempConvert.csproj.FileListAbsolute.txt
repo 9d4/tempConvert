@@ -1,0 +1,8 @@
+C:\Users\trapercode\source\repos\tempConvert\bin\Release\Temperature Converter.exe
+C:\Users\trapercode\source\repos\tempConvert\bin\Release\Temperature Converter.pdb
+C:\Users\trapercode\source\repos\tempConvert\obj\Release\tempConvert.csprojAssemblyReference.cache
+C:\Users\trapercode\source\repos\tempConvert\obj\Release\tempConvert.Form1.resources
+C:\Users\trapercode\source\repos\tempConvert\obj\Release\tempConvert.Properties.Resources.resources
+C:\Users\trapercode\source\repos\tempConvert\obj\Release\tempConvert.csproj.GenerateResource.cache
+C:\Users\trapercode\source\repos\tempConvert\obj\Release\Temperature Converter.exe
+C:\Users\trapercode\source\repos\tempConvert\obj\Release\Temperature Converter.pdb

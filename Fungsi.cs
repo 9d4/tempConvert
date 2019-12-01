@@ -33,13 +33,13 @@ namespace tempConvert
         //from Fahrn
         public decimal FToC(decimal value)
         {
-            return (value - 32M) * (5M / 9M);
+            return (value - 32M) * 0.56M;
         }
 
         //from Reamur
         public decimal RToC(decimal value)
         {
-            return value * (5M / 4M);
+            return value * 1.25M;
         }
 
         //from kelvin
@@ -53,19 +53,19 @@ namespace tempConvert
         //from celcius
         public decimal CToR(decimal value)
         {
-            return value * (4M / 5M);
+            return value * 0.8M;
         }
 
         //from Fahrn
         public decimal FToR(decimal value)
         {
-            return (value - 32) * (4M / 9M);
+            return (value - 32) * 0.4M;
         }
 
         //from Kelvin
         public decimal KToR(decimal value)
         {
-            return (value - 273.15M) * (4M / 5M);
+            return (value - 273.15M) * 0.8M;
         }
 
         //=========
@@ -74,6 +74,18 @@ namespace tempConvert
         public decimal CToK(decimal value)
         {
             return value + 273.15M;
+        }
+
+        //from Fahrn
+        public decimal FToK(decimal value)
+        {
+            return (value + 459.67M) * 0.56M;
+        }
+
+        //from Reamur
+        public decimal RToK(decimal value)
+        {
+            return (value * 1.25M) + 273.15M;
         }
     }
 }
